@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "avisgoogles",
+  "info": {
+    "singularName": "avisgoogle",
+    "pluralName": "avisgoogles",
+    "displayName": "Avisgoogle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "nametag": {
+      "type": "string"
+    },
+    "note": {
+      "type": "integer"
+    },
+    "avis": {
+      "type": "text"
+    }
+  }
+}
